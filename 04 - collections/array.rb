@@ -4,9 +4,9 @@
 
 livros = []
 
-livros.push('Memórias Póstumas de Brás Cubas')
-livros.push('Iracema')
-livros.insert(0, 'Vidas Secas')
+livros.push("Memórias Póstumas de Brás Cubas")
+livros.push("Iracema")
+livros.insert(0, "Vidas Secas")
 
 p(livros)
 
